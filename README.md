@@ -2,6 +2,8 @@
 
 Wall-E is a fun little robot that uses sonar sensor to roam around randomly and avoid obstacle.
 
+![Wall-E](Wall-E.jpg)
+
 ## 💻 Tech Spec
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
